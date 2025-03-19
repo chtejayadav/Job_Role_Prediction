@@ -41,8 +41,8 @@ If you encounter a `KeyError` when loading `resume_classifier.pkl`, ensure:
 - Your Python and library versions match the environment where the model was trained.
 
   ```
-  **## Author**
-
+## Author
+```
 Developed by: **CH TEJA YADAV**  
 📧 Email: tejayadavch@gmail.com  
 💻 GitHub: https://github.com/chtejayadav  
