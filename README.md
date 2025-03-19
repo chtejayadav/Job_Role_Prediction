@@ -42,7 +42,6 @@ If you encounter a `KeyError` when loading `resume_classifier.pkl`, ensure:
 
   ```
 ## Author
-```
 Developed by: **CH TEJA YADAV**  
 📧 Email: tejayadavch@gmail.com  
 💻 GitHub: https://github.com/chtejayadav  
