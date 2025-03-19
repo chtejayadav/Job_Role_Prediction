@@ -39,6 +39,7 @@ Job_Role_Prediction/
 If you encounter a `KeyError` when loading `resume_classifier.pkl`, ensure:
 - The file is correctly placed in the project directory.
 - Your Python and library versions match the environment where the model was trained.
+- To use the app click here https://job-role-prediction.streamlit.app/
 
   ```
 ## Author
@@ -46,8 +47,7 @@ Developed by: **CH TEJA YADAV**
 📧 Email: tejayadavch@gmail.com  
 💻 GitHub: https://github.com/chtejayadav  
 
-## Contributing
-Feel free to fork this repository, create a new branch, and submit a pull request.
+\
 
 
 
